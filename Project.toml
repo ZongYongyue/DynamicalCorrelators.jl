@@ -1,7 +1,7 @@
 name = "DynamicalCorrelators"
 uuid = "7abe38c7-550a-49b0-ba99-33d1b5164ede"
-authors = ["Y.-Y.Zong"]
 version = "0.5.2"
+authors = ["Y.-Y.Zong"]
 
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
@@ -27,6 +27,6 @@ MPSKitModels = "0.4"
 NumericalIntegration = "0.3"
 Printf = "1.11"
 QuantumLattices = "0.11, 0.12, 0.13"
-TensorKit = "0.14"
+TensorKit = "0.14, 0.16"
 TensorOperations = "5.3"
 julia = "1.9 - 1.11"
